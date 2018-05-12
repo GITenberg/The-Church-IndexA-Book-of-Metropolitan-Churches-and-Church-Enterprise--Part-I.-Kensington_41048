@@ -1,0 +1,30 @@
+_repo: The-Church-IndexA-Book-of-Metropolitan-Churches-and-Church-Enterprise--Part-I.-Kensington_41048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pepperell, William
+    gutenberg_agent_id: '40953'
+    url: http://www.gutenberg.org/2009/agents/40953
+description: ''
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dissenters, Religious -- England -- London'
+- !lcsh 'Church buildings -- England -- London -- Directories'
+- !lcc 'BV'
+- !lcc 'NA'
+- !lcsh 'Church architecture -- England -- London'
+- !lcsh 'Churches -- England -- London'
+title: 'The Church Index
+
+  A Book of Metropolitan Churches and Church Enterprise: Part I. Kensington'
+url: http://www.gutenberg.org/ebooks/41048
