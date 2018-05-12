@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40953'
     url: http://www.gutenberg.org/2009/agents/40953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41048#The-Church-IndexA-Book-of-Metropolitan-Churches-and-Church-Enterprise--Part-I.-Kensington
 gutenberg_issued: '2012-10-14'
 gutenberg_type: Text
 identifiers:
